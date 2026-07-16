@@ -1,0 +1,59 @@
+# Malik Al Waqt - Software Requirements Specification
+
+## Project Name
+Malik Al Waqt
+
+## Version
+1.0
+
+## Platform
+Android
+
+## Business Type
+Luxury E-Commerce
+
+## Products
+- Luxury Watches
+- Premium Perfumes
+
+## User Roles
+
+### Customer
+- Register
+- Login
+- Browse Products
+- Search Products
+- Add to Wishlist
+- Add to Cart
+- Checkout
+- Track Orders
+- View Order History
+- Edit Profile
+
+### Admin
+- Dashboard
+- Add Products
+- Edit Products
+- Delete Products
+- Manage Orders
+- Manage Users
+- Manage Coupons
+- Sales Reports
+
+## Payment Methods
+- Credit/Debit Card
+- Bank Transfer
+- Cash on Delivery (Optional)
+
+## Notifications
+- Order Placed
+- Order Shipped
+- Order Delivered
+- Promotions
+
+## Future Features
+- Live Chat
+- AI Recommendations
+- Multi-language
+ulti-languageOMulti-languageMulti-language
+
