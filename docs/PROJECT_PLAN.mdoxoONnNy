@@ -1,0 +1,40 @@
+# Malik Al Waqt
+
+## Vision
+A luxury shopping app for premium watches and branded perfumes.
+
+## Owner
+Muhammad Salman
+
+## Target Platform
+- Android
+- Google Play Store
+
+## Categories
+- Luxury Watches
+- Premium Perfumes
+
+## Features
+- User Login & Signup
+- Product Search
+- Wishlist
+- Shopping Cart
+- Secure Checkout
+- Order Tracking
+- User Profile
+- Push Notifications
+
+## Admin Features
+- Add/Edit/Delete Products
+- Manage Orders
+- Manage Users
+- Sales Dashboard
+- Coupon Management
+
+## Technology (Final Target)
+Frontend: Flutter
+Backend: Node.js
+Database: PostgreSQL
+Notifications: Firebase Cloud Messaging
+
+
